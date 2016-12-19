@@ -1,6 +1,6 @@
 # Basic CRUD using Vapor
 
-A basic CRUD demo using Vapor, visit [How to do basic CRUD with server side Swift framwork Vapor](http://bit.ly/2gMQYmU) for detailed instructions.
+A basic CRUD demo using Vapor, visit [How to do basic CRUD with server side Swift framwork Vapor](https://www.xplusz.com/how-to-do-basic-crud/) for detailed instructions.
 
 ## 📖 Documentation
 
